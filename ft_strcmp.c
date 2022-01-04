@@ -6,13 +6,13 @@
 /*   By: tsekiguc <tsekiguc@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/31 20:06:27 by tsekiguc          #+#    #+#             */
-/*   Updated: 2021/12/31 20:06:29 by tsekiguc         ###   ########.fr       */
+/*   Updated: 2021/12/31 20:18:04 by tsekiguc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int	ft_strncmp(const char *s1, const char *s2, size_t n)
+int	ft_strcmp(const char *s1, const char *s2)
 {
 	unsigned char	*ucs1;
 	unsigned char	*ucs2;
