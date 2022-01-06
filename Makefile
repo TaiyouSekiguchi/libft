@@ -6,7 +6,7 @@
 #    By: tsekiguc <tsekiguc@student.42tokyo.jp      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/20 09:45:12 by tsekiguc          #+#    #+#              #
-#    Updated: 2021/12/31 20:16:25 by tsekiguc         ###   ########.fr        #
+#    Updated: 2022/01/06 22:28:54 by tsekiguc         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -47,6 +47,7 @@ SRCS	=	ft_atoi.c\
 			ft_strchr.c\
 			ft_strcmp.c\
 			ft_strdup.c\
+			ft_strndup.c\
 			ft_striteri.c\
 			ft_strjoin.c\
 			ft_strlcat.c\
